@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset=utf-8 />
+  <title>DJ time</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <link href="https://fonts.googleapis.com/css?family=Ranchers" rel="stylesheet">
+  <style>
+    body {
+      padding: 40px;
+      font-family: 'Ranchers', cursive;
+    }
+
+    #mydiv {
+      color: #fff;
+      font-size: 12em;
+    }
+  </style>
+
+</head>
+
+<body id="mybody">
+  <button id="mybutton">select DJ</button>
+
+  <div id="mydiv"></div>
+
+  <script>
+    var djs = ["Nicole", "Beck", "Bryan", "Jeffrey", "Melinda", "Jason", "Adam R", "Arianna", "Holly", "Nachie", "Paige", "Renato",
+      "Stephen", "Rose", "Sarah", "DeAnna", "Rachel", "Sophie", "Emily", "Issac", "Cecelia", "Boyd", "Adam B", "Jay",
+      "Richard", "Joseph"
+    ]
+
+    var result = ["should play christmas music", "needs to play a boy band song", "needs to play a girl band song", "get a song from the 70s", "get a song from the 80s", "get a song from the 90s", "get a song from the 00s", "get a song from the 10s",
+      "has been ricrolledyo! <iframe width='560' height='315' src='https://www.youtube.com/embed/dQw4w9WgXcQ' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>",
+      "Pony tail: <iframe width='560' height='315' src='https://www.youtube.com/embed/BDg6-v9V8lo' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>",
+      "needs kittie time!<br><iframe width='560' height=315' src='https://www.youtube.com/embed/4joJHaKecBg' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>",
+      "get the big picture time after time<br><iframe width='560' height='315' src='https://www.youtube.com/embed/VdQY7BusJNU' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>",
+      "loves rock n roll <br><iframe width='560' height='315' src='https://www.youtube.com/embed/xL5spALs-eA' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>",
+      'Walk like an Egyptian <iframe width="560" height="315" src="https://www.youtube.com/embed/Cv6tuzHUuuk?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>',
+      'take on the asiignment!<br> <iframe width="560" height="315" src="https://www.youtube.com/embed/djV11Xbc914" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>',
+      'is not gonna take it!<br> <iframe width="560" height="315" src="https://www.youtube.com/embed/V9AbeALNVkk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>',
+      'needs to jitterbug<br><iframe width="560" height="315" src="https://www.youtube.com/embed/pIgZ7gMze7A?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>',
+      'needs a buddy<br><iframe width="560" height="315" src="https://www.youtube.com/embed/qYkbTyHXwbs?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>',
+      'kills the radio atar <iframe width="560" height="315" src="https://www.youtube.com/embed/Iwuy4hHO3YQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>',
+      'rocks the map! <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/bJ9r8LMU9bQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>'
+    ]
+
+    document.getElementById('mybutton').onclick = function() {
+
+      var randomDj = Math.round(Math.random() * 22),
+        randomResult = Math.round(Math.random() * result.length),
+        rB = Math.round(Math.random() * 10000)
+
+      document.getElementById('mydiv').innerHTML = djs[randomDj] + " " + result[randomResult]
+
+      var y = document.getElementById('mybody')
+
+      y.style.background = "#ff" + rB
+    }
+  </script>
+
+
+</body>
