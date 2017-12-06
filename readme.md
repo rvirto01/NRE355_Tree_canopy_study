@@ -181,6 +181,52 @@ https://www.dropbox.com/s/9mll7pfssd504sb/Pool.jpg?raw=1
 bur oak elevation profile
 https://www.dropbox.com/s/1nx40vd7ujwxllg/Bur_oak_elevation_Profile2.png?raw=1
 
+## Columbia Heights Neighborhood Association
+Lexington, Kentucky
+
+
+Rose Yeley
+Sarah Atkins
+
+
+Carto Map
+<iframe width="100%" height="520" frameborder="0" src="https://roseyeley.carto.com/builder/6aeab95a-ac04-492d-83e4-035aa245ed80/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>https://roseyeley.carto.com/builder/6aeab95a-ac04-492d-83e4-035aa245ed80/embed
+
+Lab 3
+https://www.dropbox.com/s/r3gor709805iaim/CH_estimated_tree_canopy_points_of_interest.pdf?raw=1
+
+Lab 4
+https://www.dropbox.com/s/4w58ex1m4ysq0rn/seatkins_CH_elevation_171106.pdf?raw=1
+
+
+Tallest Tree Photos with Description
+https://www.dropbox.com/s/izerfyg1jncaoch/Photo%20Nov%2013%2C%2010%2001%2023%20AM.jpg?raw=1
+sycamore 91 ft
+
+https://www.dropbox.com/s/rtah2980ji0f6w3/Photo%20Nov%2013%2C%209%2058%2054%20AM.jpg?raw=1
+ orchard ave 93 ft
+
+https://www.dropbox.com/s/jh5cr8b0lnh0h5e/Photo%20Nov%2013%2C%2010%2000%2044%20AM.jpg?raw=1
+Oldham ct 80 ft
+
+
+POI (Local businesses and organizations)
+Chevy Chase Animal clinic
+https://www.dropbox.com/s/dxqxchkg0gkr7jx/Photo%20Oct%2016%2C%2010%2033%2003%20AM.jpg?raw=1
+CSF
+https://www.dropbox.com/s/826cvkycmhtc04d/Photo%20Oct%2016%2C%2010%2030%2019%20AM.jpg?raw=1
+Janna's Pet Salon
+https://www.dropbox.com/s/lfndbm3elt1944u/Photo%20Oct%2016%2C%2010%2026%2037%20AM.jpg?raw=1
+Off Tha Hookah
+https://www.dropbox.com/s/64bb0nge86u59ry/Photo%20Oct%2016%2C%2010%2039%2006%20AM.jpg?raw=1
+Wildcat Market
+https://www.dropbox.com/s/nayjcm5i936fi59/Photo%20Oct%2016%2C%2010%2029%2012%20AM.jpg?raw=1
+Best Friends Bar	https://www.dropbox.com/s/uweal5u6jxfrd11/Photo%20Oct%2016%2C%2010%2025%2010%20AM.jpg?raw=1
+
+Elevation profile
+https://www.dropbox.com/s/h8tgn1gcidndeke/CSF%20tree%20elevation%20profile.PNG?raw=1
+
+
 
 ## MLK Neighborhood Association
 Lexington, Kentucky
@@ -220,3 +266,66 @@ Sayre: https://www.dropbox.com/s/vjhqtfs4f1il4x6/Stare%20School.jpg?raw=1
 https://www.dropbox.com/s/rj442sbiuin4xcp/3DView.PNG?raw=1
 
 http://sweb.uky.edu/~scbe226/nre355/Martin_Luther_King_Assets.txt
+
+
+
+## North Limestone Neighborhood
+
+Cecelia Tio
+Boyd
+
+1)	Carto Map ----https://ceceliamtio.carto.com/builder/1b219f0b-96a8-4ddb-963a-8c6b0bbfd744
+2)	Lab 3 Map PDF--- https://www.dropbox.com/s/azrimzj3ipaatif/NorthLime_Map_Canopy_version2.pdf?dl=0
+Cecelia Tio
+3)	Lab 4 Map PDF----https://www.dropbox.com/s/97ob651atczb5xt/NorthLime_Map_Canopy_lab_4.jpg?dl=0
+4)	 Tallest Tree Photos
+https://www.dropbox.com/s/zbfil6lnpwircnc/Carnage%20Center_preview%20%281%29.jpeg?dl=0
+https://www.dropbox.com/s/lnf6xiptu9yvbj0/IMG_2870.JPG?dl=0
+https://www.dropbox.com/s/5viajjvgwbejm9d/IMG_2872.JPG?dl=0
+
+
+5)	6 Points of Interest Photos  
+
+https://www.dropbox.com/s/erh7rd22jd7k891/4th_Street_Church.JPG?dl=0
+ https://www.dropbox.com/s/rmndeocfiv82yf5/Carrick_House_preview.jpg?dl=0
+https://www.dropbox.com/s/xfmj3l6wb08vvnc/Doodles.JPG?dl=0
+https://www.dropbox.com/s/0w08a4pz99huwg0/Transylvania_Uni.JPG?dl=0
+https://www.dropbox.com/s/pk6st472q2oiz0i/Sayre_School.JPG?dl=0
+https://www.dropbox.com/s/s8267a7t4h50bld/Magnet%20School.PNG?dl=0
+
+6)	Elevation Profile
+https://www.dropbox.com/s/bys5dqh54bnc9o2/Elevation%201.PNG?dl=0
+https://www.dropbox.com/s/7eqnw03o3qm64mx/Elevation%202.PNG?dl=0
+https://www.dropbox.com/s/w2qtp96pif1o5rz/Elevation%203.PNG?dl=0
+
+## Northside Neighborhood Association
+Lexington, Kentucky
+
+Isaac Marrs
+
+Carto Map
+https://isaacmarrs.carto.com/builder/52b3d049-27aa-481d-94dc-d0d6c0b67323/embed
+
+Lab 3
+https://www.dropbox.com/s/019t63xrbmk9ek7/Northside_GPS.pdf?dl=0
+
+Lab 4
+https://www.dropbox.com/s/ss4j2mq50zh361i/Northside_GPS_walking.pdf?dl=0
+
+Talles Trees Photos with description
+Pin Oak: 80 feet; https://www.dropbox.com/s/8yo3rwiam6c4bui/Pin%20Oak.jpg?raw=1
+
+Sycamore: 76 feet; https://www.dropbox.com/s/w2qho2vpt3oz1bu/Sycamore.jpg?raw=1
+
+Tulip-Poplar: 73 feet; https://www.dropbox.com/s/q8nte6dgly2ooiu/Tulip-Poplar.jpg?raw=1
+
+Points of Interest
+Coolavin Park; https://www.dropbox.com/s/z3cjwr7r694xphd/Coolavin%20Park.jpg?raw=1
+Elsmere Park - Historic District; https://www.dropbox.com/s/6amn6zkcrwi0uoh/Elsmere%20Park%20-%20Historic%20District.jpg?raw=1
+Lexington Bike Polo; https://www.dropbox.com/s/wqfec8rgh3lugm9/Lexington%20Bike%20Polo.jpg?raw=1
+Lexington Friends Meeting; https://www.dropbox.com/s/yobh0pm0g6fkznh/Lexington%20Friends%20Meeting.jpg?raw=1
+Street Art at West Sixth; https://www.dropbox.com/s/753h691j8ua3s5l/Street%20Art%20at%20West%20Sixth.jpg?raw=1
+West Sixth Brewing; https://www.dropbox.com/s/4ooaql5bqey2w5t/West%20Sixth%20Brewing.jpg?raw=1
+
+Elevation Profile
+https://www.dropbox.com/s/udgq8ias7p473uh/3D_view.PNG?raw=1
