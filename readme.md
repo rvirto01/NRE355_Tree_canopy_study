@@ -46,6 +46,9 @@ http://sweb.uky.edu/~aebo234/nre355/tree_canopy/AshlandPark.pdf
 Lab 4
 https://www.dropbox.com/s/wb97gd2tsxkoyu7/Lab04_Final_JasonThomas.pdf?raw=1
 
+Estimated Tree Cover Acreage: 22.03 acres (44.8%)
+Ashland Park Neighborhood Association Area: 49.16 Acres
+
 Tallest Tree Photos with description
 Scarlet Oak: 103 feet;
 https://dl.dropboxusercontent.com/content_link/DzyFwJDB34VzXtQjAir916smCSwyF729mhyJEu4aGdI0VHgYsnEKVFzgaPf45ALg/file
@@ -85,6 +88,9 @@ https://www.dropbox.com/s/vpehc7l9fsof5jm/Aylesford_GPS_walk_2.pdf?raw=1
 lab 4
 https://www.dropbox.com/s/urs9e8z346k67yp/Aylesford_Lidar.pdf?raw=1
 
+total area 244.65 Acres
+35.87% canopy cover
+
 tallest trees
 sycamore 111ft; https://www.dropbox.com/s/7y3etddjtp5mkmd/Photo%20Nov%2012%2C%202%2036%2043%20PM.jpg?raw=1
 oak 91ft; https://www.dropbox.com/s/hwa5rbypxqezamz/nice_tree.jpg?raw=1
@@ -119,6 +125,8 @@ https://www.dropbox.com/s/aq77mry5cf9nzzw/CardinalValley_GPS_Walk.pdf?raw=1
 Lab 4:
 http://sweb.uky.edu/~ncfu223/NRE355/FunkGIS_Lab04_CardinalValley_171127.pdf
 
+area of neighborhood: 335.83 Acres
+2013 tree canopy assessment: 108.87 ac (32.41%)
 
 Tallest Tree Photos with description
 
@@ -153,6 +161,9 @@ Lab 3 PDF
 https://www.dropbox.com/s/5qr9bj5sns7gw28/Castlewood_BigTrees_POIs.pdf?raw=1
 Lab 4 PDF
 https://www.dropbox.com/s/u5s8wf8mnuw59tv/Lab_04.pdf?raw=1
+
+Castlewood Neighborhood Association: 165.21 ac
+30% tree canopy
 
 
 Tallest trees pictures
@@ -197,6 +208,9 @@ https://www.dropbox.com/s/r3gor709805iaim/CH_estimated_tree_canopy_points_of_int
 
 Lab 4
 https://www.dropbox.com/s/4w58ex1m4ysq0rn/seatkins_CH_elevation_171106.pdf?raw=1
+
+area 10.61 ac
+Tree canopy 30.13%
 
 
 Tallest Tree Photos with Description
@@ -245,6 +259,9 @@ http://sweb.uky.edu/~ekin222/nre355/MLK_GPS_Walk.pdf
 Lab 4
 http://sweb.uky.edu/~rlst244/nre355/MLKElevationPt2.pdf
 
+Area Neighborhood Association: 132.39 acres
+Tree canopy 22.95%
+
 Tallest Tree Photos with description
 Black walnut: 90 feet; https://www.dropbox.com/s/5b604szqjs773ue/Tall%20Tree%20%231%20Nov%2013%2C%203%2029%2047%20PM.jpg?raw=1
 
@@ -273,6 +290,10 @@ http://sweb.uky.edu/~scbe226/nre355/Martin_Luther_King_Assets.txt
 
 Cecelia Tio
 Boyd
+
+Neighborhood Association: 579.4 Acres  
+Tree canopy 25.5%
+
 
 1)	Carto Map ----https://ceceliamtio.carto.com/builder/1b219f0b-96a8-4ddb-963a-8c6b0bbfd744
 2)	Lab 3 Map PDF--- https://www.dropbox.com/s/azrimzj3ipaatif/NorthLime_Map_Canopy_version2.pdf?dl=0
@@ -312,7 +333,10 @@ https://www.dropbox.com/s/019t63xrbmk9ek7/Northside_GPS.pdf?dl=0
 Lab 4
 https://www.dropbox.com/s/ss4j2mq50zh361i/Northside_GPS_walking.pdf?dl=0
 
-Talles Trees Photos with description
+Total area 190.6 ac
+33.3% canopy cover
+
+Tallest Trees Photos with description
 Pin Oak: 80 feet; https://www.dropbox.com/s/8yo3rwiam6c4bui/Pin%20Oak.jpg?raw=1
 
 Sycamore: 76 feet; https://www.dropbox.com/s/w2qho2vpt3oz1bu/Sycamore.jpg?raw=1
