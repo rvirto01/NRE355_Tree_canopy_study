@@ -279,9 +279,9 @@ Boyd
 Cecelia Tio
 3)	Lab 4 Map PDF----https://www.dropbox.com/s/97ob651atczb5xt/NorthLime_Map_Canopy_lab_4.jpg?dl=0
 4)	 Tallest Tree Photos
-https://www.dropbox.com/s/zbfil6lnpwircnc/Carnage%20Center_preview%20%281%29.jpeg?dl=0
-https://www.dropbox.com/s/lnf6xiptu9yvbj0/IMG_2870.JPG?dl=0
-https://www.dropbox.com/s/5viajjvgwbejm9d/IMG_2872.JPG?dl=0
+102 ft https://www.dropbox.com/s/zbfil6lnpwircnc/Carnage%20Center_preview%20%281%29.jpeg?dl=0
+97 ft https://www.dropbox.com/s/lnf6xiptu9yvbj0/IMG_2870.JPG?dl=0
+76 ft https://www.dropbox.com/s/5viajjvgwbejm9d/IMG_2872.JPG?dl=0
 
 
 5)	6 Points of Interest Photos  
