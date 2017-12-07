@@ -14,9 +14,9 @@ Lab3:http://sweb.uky.edu/~rehe228/NRE355/Ashland_Canopy_Map.pdf
 Lab 4:http://sweb.uky.edu/~rehe228/NRE355/Ashland_Canopy_Map_Tree_Heights.pdf
 
 Tallest Tree Photos:
-https://www.dropbox.com/s/jogs09yl7gbrjpq/File%20Nov%2013%2C%2017%2023%2042.jpeg?raw=1 (Tall Spruce)
-https://www.dropbox.com/s/tlyo00vc7s5rosg/File%20Nov%2013%2C%2017%2023%2012.jpeg?raw=1 (Tallest Tulip Tree)
-https://www.dropbox.com/s/i5ojwz525vyczx3/File%20Nov%2013%2C%2017%2022%2051.jpeg?raw=1 (Tulip Tree)
+https://www.dropbox.com/s/jogs09yl7gbrjpq/File%20Nov%2013%2C%2017%2023%2042.jpeg?raw=1 (Tall Spruce) 113 ft
+https://www.dropbox.com/s/tlyo00vc7s5rosg/File%20Nov%2013%2C%2017%2023%2012.jpeg?raw=1 (Tallest Tulip Tree) 108 ft
+https://www.dropbox.com/s/i5ojwz525vyczx3/File%20Nov%2013%2C%2017%2022%2051.jpeg?raw=1 (Tulip Tree) 107 ft
 
 6 Points of Interest Photos:
 https://www.dropbox.com/s/wrs1g28q9re3ux7/Photo%20Oct%2023%2C%2016%2027%2010.jpg?raw=1 Historical Marker
