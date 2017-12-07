@@ -26,7 +26,7 @@
   <div id="mydiv"></div>
 
   <script>
-    var djs = ["Nicole", "Beck", "Bryan", "Jeffrey", "Melinda", "Jason", "Adam R", "Arianna", "Holly", "Nachie", "Paige", "Renato",
+    var djs = ["Nicole", "Beck", "Bryan", "Jeffrey", "Melinda", "Jason", "Adam R", "Arianna", "Holly", "Nachie", "Karen", "Paige", "Renato",
       "Stephen", "Rose", "Sarah", "DeAnna", "Rachel", "Sophie", "Emily", "Issac", "Cecelia", "Boyd", "Adam B", "Jay",
       "Richard", "Joseph"
     ]
@@ -52,7 +52,7 @@
 
     document.getElementById('mybutton').onclick = function() {
 
-      var randomDj = Math.round(Math.random() * 22),
+      var randomDj = Math.round(Math.random() * djs.length),
         randomResult = Math.round(Math.random() * result.length),
         rB = Math.round(Math.random() * 10000)
 
