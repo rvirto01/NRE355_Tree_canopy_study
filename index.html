@@ -10,113 +10,98 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-    <div class="container">
-      <a class="navbar-brand" href="#"></a>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar3SupportedContent" aria-controls="navbar3SupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
-      <div class="collapse navbar-collapse text-center justify-content-center" id="navbar3SupportedContent">
-        <ul class="navbar-nav">
-            <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="ashland/index.html">Ashland</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="ashland_park/index.html">Ashland Park</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="aylesford_place/index.html">Aylesford Place</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="cardinal_valley/index.html">Cardinal Valley</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="castlewood/index.html">Castlewood</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="columbia_heights/index.html">Columbia Heights</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="mlk/index.html">Martin Luther King</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="north_limestone/index.html">North Limestone</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="northside/index.html">Northside</a>
-          </li>
-        </ul>
+    
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand btn btn-dark" href="#"><i class="fa fa-home" aria-hidden="true"></i>
+Home</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            
+           <!-- Dropdown -->
+            <li class="nav-item active dropdown" >
+                <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Neighborhood Associations</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="background-color:black;">
+                    <a class="nav-link" href="ashland/index.html">Ashland</a>
+                    <a class="nav-link" href="ashland_park/index.html">Ashland Park</a>
+                    <a class="nav-link" href="aylesford_place/index.html">Aylesford Place</a>
+		            <a class="nav-link" href="cardinal_valley/index.html">Cardinal Valley</a>
+                    <a class="nav-link" href="castlewood/index.html">Castlewood</a>
+                    <a class="nav-link" href="columbia_heights/index.html">Columbia Heights</a>
+                    <a class="nav-link" href="mlk/index.html">Martin Luther King</a>
+                    <a class="nav-link" href="north_limestone/index.html">North Limestone</a>
+                    <a class="nav-link" href="northside/index.html">Northside</a>
+                </div>
+            </li>
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+
+<!--/.Navbar-->
   <div class="py-5 text-center opaque-overlay" style="background-image: url(&quot;https://www.dropbox.com/s/nnxxt9nqojc4vr5/gingko_cafe_ashland.jpg?raw=1&quot;);">
-    <div class="container py-5">
+    <div class="container py-5" style="background-color:rgba(0, 0, 0, 0.35)">
       <div class="row">
         <div class="col-md-12 text-white">
           <h1 class="display-3 mb-4">Lexington Neighborhoods Tree Canopy Study</h1>
-          <p class="lead mb-5">NRE 355, Intro to Geospatial Applications for Land Analysis, is a class at the University of Kentucky (UK) better known as GIS. In this class, students learn how to use ArcGIS software to determine tree canopy coverage, elevation, create base maps, and perform raster analysis. Every year, the class constructs various maps centered around an environmental theme. This semester’s thematic focus was tree canopy coverage of specific neighborhood associations inside New Circle road in Lexington, Kentucky to feature ecosystem services provided by urban tree canopy. GIS is a required class for Natural Resources & Environmental Science (NRES), Geography, and Landscape Architecture majors at UK. This class offered students an introduction to the mapping and GIS world. The skills learned in this class are beneficial for students’ future employment, or internships, as natural resource and landscaping work often include basic mapping requirements.  </p>
-          <a href="#" class="btn btn-lg mx-1 btn-secondary">A claim here</a>
-          <a href="#" class="btn btn-lg btn-primary mx-1">Your call to action</a>
+          <p class="lead mb-5">NRE 355, Intro to Geospatial Applications for Land Analysis, is a class at the University of Kentucky (UK) better known as GIS. In this class, students learn how to use ArcGIS software to determine tree canopy coverage, elevation, create base maps, and perform raster analysis. Every year, the class constructs various maps centered around an environmental theme. This semester’s thematic focus was tree canopy coverage of specific neighborhood associations inside New Circle road in Lexington, Kentucky to feature ecosystem services provided by urban tree canopy.</p>
+            <a href="#about" class="btn btn-lg mx-1 btn-secondary">Lern More</a>
         </div>
       </div>
     </div>
   </div>
-  <div class="py-5">
+  <div class="py-5" id="about">
     <div class="container">
       <div class="row mb-5">
-        <div class="col-md-7">
+        <div class="col-md-12">
           <h2 class="text-primary">Labs</h2>
-          <p class="">This course used ArcGIS’ ArcMap as its primary map-making software. Our initial analysis of neighborhoods inside New Circle road in Lexington Kentucky, Lab 2, used a raster calculator to find Normalized Difference Vegetative Index (NDVI) using red and near infrared imagery from the National Agricultural Imagery Program (NAIP) from 2014 & 2016 to estimate tree canopy in each neighborhood based on presence of the color green. For our second analysis, Lab 3, we took to the field, using the smartphone application Avenza Maps to pinpoint POIs, or points of interests, completely subjective to the perspective of ourselves. As well, we looked to pinpoint locations where our NDVI analyses did not register a tree, either completely or partly. We then mapped these POIs and NDVI-missed trees and posted our maps to our individual websites at: sweb.uky.edu/~username/nre355. In our Lab 4 map we used Lidar elevation data to determine the height of all trees in our neighborhoods, and then were able to locate the highest trees on our landscapes. We then took to the field once more to find these trees and take pictures. Furthermore, we isolated our NDVI data to only include vegetative cover that was taller than 3 feet, in order to ensure we were looking at trees and not shrubbery. These GPS points of tallest trees, their photos, and new canopy cover from picked NDVI were then mapped and added once again to our individual websites. For Lab 5 we individually took all the most pertinent data, tallest trees and true canopy cover from Lab 4, POIs from Lab 3, zipped, or compressed, it and recreated it on an interactive map-making website CARTO maps, republishing this new map as the final addition to our webpages.
+          <p class="">This course used ArcGIS’ ArcMap as its primary map-making software. Our initial analysis of neighborhoods inside New Circle road in Lexington Kentucky,</p>
+            
+            <p>Lab 2, used a raster calculator to find Normalized Difference Vegetative Index (NDVI) using red and near infrared imagery from the National Agricultural Imagery Program (NAIP) from 2014 & 2016 to estimate tree canopy in each neighborhood based on presence of the color green. For our second analysis. </p>
+              
+            <p>Lab 3, we took to the field, using the smartphone application Avenza Maps to pinpoint POIs, or points of interests, completely subjective to the perspective of ourselves. As well, we looked to pinpoint locations where our NDVI analyses did not register a tree, either completely or partly. We then mapped these POIs and NDVI-missed trees and posted our maps to our individual websites at: sweb.uky.edu/~username/nre355. </p>
+           
+            <p> In our Lab 4 map we used Lidar elevation data to determine the height of all trees in our neighborhoods, and then were able to locate the highest trees on our landscapes. We then took to the field once more to find these trees and take pictures. Furthermore, we isolated our NDVI data to only include vegetative cover that was taller than 3 feet, in order to ensure we were looking at trees and not shrubbery. These GPS points of tallest trees, their photos, and new canopy cover from picked NDVI were then mapped and added once again to our individual websites.</p>
+            
+            <p> For Lab 5 we individually took all the most pertinent data, tallest trees and true canopy cover from 
+              Lab 4, POIs from Lab 3, zipped, or compressed, it and recreated it on an interactive map-making website CARTO maps, republishing this new map as the final addition to our webpages.
 </p>
         </div>
-        <div class="col-md-5 align-self-center">
-          <img class="img-fluid d-block w-100 img-thumbnail" src="https://pingendo.github.io/templates/sections/assets/gallery_9.jpg"> </div>
+
       </div>
       <div class="row">
         <div class="col-md-5">
           <img class="img-fluid d-block mb-4 w-100 img-thumbnail" src="https://pingendo.github.io/templates/sections/assets/gallery_3.jpg"> </div>
         <div class="col-md-7">
           <h2 class="text-primary pt-3">Neighborhoods</h2>
-          <p class="">This tree canopy study was conducted on several different neighborhoods within the area of New Circle road in Lexington, Kentucky. The neighborhoods involved were Ashland, Ashland Park, Aylesford, Cardinal Valley, Castlewood, Columbia Heights, MLK, Northside, and North Limestone. The neighborhood with the most tree canopy per acre was Ashland Park, while the lowest counted tree canopy per acre was in the MLK Neighborhood. The tallest tree was located in the Ashland Neighborhood, a spruce or tulip poplar registering, with Lidar technology, at 114 feet tall.</p>
+          <p class="">This tree canopy study was conducted on several different neighborhoods within the area of New Circle road in Lexington, Kentucky. </p>
+            <p>The neighborhoods involved were:</p>
+            <ul>
+                <li>Ashland</li>
+                <li>Ashland Park</li>
+                <li>Aylesford</li>
+                <li>Cardinal Valley</li>
+                <li>Castlewood</li>
+                <li>Columbia Heights</li>
+                <li>Martin Luther King</li>
+                <li>Northside</li>
+                <li>North Limestone</li>
+            </ul>
+            <p>The neighborhood with the most tree canopy per acre was Ashland Park, while the lowest counted tree canopy per acre was in the MLK Neighborhood. The tallest tree was located in the Ashland Neighborhood, a spruce or tulip poplar registering, with Lidar technology, at 114 feet tall.</p>
         </div>
       </div>
     </div>
   </div>
-  <div class="p-5 text-center bg-secondary text-white gradient-overlay">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <h1 class="mb-4">Carousel with indicators</h1>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12">
-          <div id="carouselArchitecture" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-              <li data-target="#carouselArchitecture" data-slide-to="0" class=""><i></i></li>
-              <li data-target="#carouselArchitecture" data-slide-to="1" class=""><i></i></li>
-              <li data-target="#carouselArchitecture" data-slide-to="2" class="active"><i></i></li>
-            </ol>
-            <div class="carousel-inner" role="listbox">
-              <div class="carousel-item">
-                <img class="d-block img-fluid" src="https://pingendo.github.io/templates/sections/assets/gallery_architecture_1.jpg" data-holder-rendered="true"> </div>
-              <div class="carousel-item">
-                <img class="d-block img-fluid" src="https://pingendo.github.io/templates/sections/assets/gallery_architecture_2.jpg" data-holder-rendered="true"> </div>
-              <div class="carousel-item active">
-                <img class="d-block img-fluid" src="https://pingendo.github.io/templates/sections/assets/gallery_architecture_3.jpg" data-holder-rendered="true"> </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <div class="bg-dark text-white">
     <div class="container">
       <div class="row">
         <div class="p-4 col-md-3">
-          <h2 class="mb-4 text-secondary">Pingendo</h2>
-          <p class="text-white">A company for whatever you may need, from website prototyping to publishing</p>
+          <a><img class="img-fluid" src="http://webgov.uky.edu/standards/assets/img/uk-lockup.png"> </a>
         </div>
         <div class="p-4 col-md-3">
           <h2 class="mb-4 text-secondary">Mapsite</h2>
@@ -153,11 +138,12 @@
       </div>
       <div class="row">
         <div class="col-md-12 mt-3">
-          <p class="text-center text-white">© Copyright 2017 Pingendo - All rights reserved. </p>
+          <p class="text-center text-white">© Copyright 2017 - All rights reserved. </p>
         </div>
       </div>
     </div>
   </div>
+    
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
