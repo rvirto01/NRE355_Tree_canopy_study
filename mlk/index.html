@@ -10,135 +10,164 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-    <div class="container">
-      <a class="navbar-brand" href="#"></a>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar3SupportedContent" aria-controls="navbar3SupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
-      <div class="collapse navbar-collapse text-center justify-content-center" id="navbar3SupportedContent">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link" href="../ashland">Ashland</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="../ashland_park">Ashland Park</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="../aylesford_place">Aylesford Place</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="../cardinal_valley">Cardinal Valley</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="../castlewood">Castlewood</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="../columbia_heights">Columbia Heights</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="../mlk">Martin Luther King</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="../north_limestone">North Limestone</a>
-          </li>
-            <li class="nav-item">
-            <a class="nav-link" href="../northside">Northside</a>
-          </li>
-        </ul>
+  
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand btn btn-dark" href="../index.html"><i class="fa fa-home" aria-hidden="true"></i>
+Home</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            
+           <!-- Dropdown -->
+            <li class="nav-item active dropdown" >
+                <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Neighborhood Associations</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="background-color:black;">
+                	<a class="nav-link" href="../ashland/index.html">Ashland</a>
+            		<a class="nav-link" href="../ashland_park/index.html">Ashland Park</a>
+           	 	<a class="nav-link" href="../aylesford_place/index.html">Aylesford Place</a>
+            		<a class="nav-link" href="../cardinal_valley/index.html">Cardinal Valley</a>
+            		<a class="nav-link" href="../castlewood/index.html">Castlewood</a>
+            		<a class="nav-link" href="../columbia_heights/index.html">Columbia Heights</a>
+            		<a class="nav-link" href="../mlk/index.html">Martin Luther King</a>
+            		<a class="nav-link" href="../north_limestone/index.html">North Limestone</a>
+            		<a class="nav-link" href="../northside/index.html">Northside</a>
+                </div>
+            </li>
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+
+<!--/.Navbar-->
+    
+<!-------- Hero ----------->
   <div class="py-5 text-center">
     <div class="container py-5">
       <div class="row">
         <div class="col-md-12">
           <h1 class="display-3 mb-4">Martin Luther King Neighborhood Association</h1>
-          <p class="lead mb-5">Pingendo is a HTML editor for everyone. Easy for newbies, useful for professionals.
-            <br>Code quality is a must. Pingendo generates clean, battle-tested, modular Bootstrap 4 code. </p>
-          <a href="#" class="btn btn-lg mx-1 btn-secondary">A claim here</a>
-          <a href="#" class="btn btn-lg btn-primary mx-1">Your call to action</a>
+          <p class="lead mb-5">Information about Neighborhood Association goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non risus orci. Vestibulum scelerisque, arcu quis rhoncus efficitur, quam odio vestibulum tortor, nec ultricies risus sapien eu metus. Aenean nec lacus faucibus quam vestibulum ullamcorper. Nulla dignissim pretium augue. Curabitur sollicitudin ornare odio eu imperdiet. Aliquam in dignissim justo, at feugiat justo. Proin at semper magna. Etiam a massa lacinia eros maximus facilisis. Sed id laoreet mauris, eget imperdiet dui. Nam eros risus, aliquet eget tempus ut, auctor at sapien.</p>
+            <p>Credits: <br> Emily Ingram, Sophie Beavin and Rachael Steffen</p>
+            <!-------- Buttons ----------->
+            <a href="#lab1" class="btn btn-lg mx-1 btn-secondary">GPS and Data Capture</a>
+            <a href="#lab2" class="btn btn-lg mx-1 btn-secondary">Terrain Analysis</a>
         </div>
       </div>
     </div>
   </div>
+    
+<!-------- /Hero ----------->
+    <!-------- CARTO ----------->
       <div class="p-5 text-center">
     <div class="container">
       <div class="row">
-        <div class="col-12">
           <iframe width="100%" height="520" frameborder="0" src="https://beavinsophie.carto.com/builder/f2567f71-74a7-417d-abab-c59888d757bd/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-        </div>
       </div>
     </div>
   </div>
-  <div class="py-5">
+<!-------- /CARTO ----------->    
+<!-------- Labs ----------->
+  <div class=" text-center py-5" id="lab1">
     <div class="container">
-      <div class="row mb-5">
-        <div class="col-md-7">
-          <h2 class="text-primary">Article subtitle #1</h2>
+      <div class="row mb-5" >
+          <!-------- Lab 3 ----------->
+        <div class="col-md-12">
+          <h2 class="mb-4">GPS and Data Capture</h2>
           <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
             irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            
+                
+                <!-- Map Link  (insert lab 3 map after <a href=")-->
+                <a href="http://sweb.uky.edu/~ekin222/nre355/MLK_GPS_Walk.pdf" target="_blank"><i class="fa fa-folder-open" aria-hidden="true"><button type="button" class="btn btn-outline-primary"></i> Open Map</button></a>
+                
         </div>
-        <div class="col-md-5 align-self-center">
-          <img class="img-fluid d-block w-100 img-thumbnail" src="http://sweb.uky.edu/~ekin222/nre355/MLK_GPS_Walk.pdf"> </div>
-      </div>
-      <div class="row">
-        <div class="col-md-5">
-          <img class="img-fluid d-block mb-4 w-100 img-thumbnail" src="http://sweb.uky.edu/~rlst244/nre355/MLKElevationPt2.pdf"> </div>
-        <div class="col-md-7">
-          <h2 class="text-primary pt-3">Article subtitle #2</h2>
-          <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+          <!-------- POI Photos (insert POI photos after <a href=" and <img... src=" )----------->
+        <div class="py-5">
+            <div class="container">
+                        <h4 class="mb-4">Points of Interest</h4>
+                <div class="row">
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/aj0u7evjkt4ygl0/Placemark%2011.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/aj0u7evjkt4ygl0/Placemark%2011.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/nrtqmkzw3no4tr2/Placemark%206.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/nrtqmkzw3no4tr2/Placemark%206.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/p6tt0mq7rkmawwd/Placemark%208.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/p6tt0mq7rkmawwd/Placemark%208.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
 
-  <div class="bg-dark text-white">
-    <div class="container">
-      <div class="row">
-        <div class="p-4 col-md-3">
-          <h2 class="mb-4 text-secondary">Pingendo</h2>
-          <p class="text-white">A company for whatever you may need, from website prototyping to publishing</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/d36eeqc0rvqdi5x/Placemark%2012.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/d36eeqc0rvqdi5x/Placemark%2012.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/o097qsaf6j9jou9/Placemark%2010.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/o097qsaf6j9jou9/Placemark%2010.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/vjhqtfs4f1il4x6/Stare%20School.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/vjhqtfs4f1il4x6/Stare%20School.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
+                </div>
+
+            </div>
+          </div>
+
+              <!-------- /POI ----------->   
+
+          <!-------- /Lab 2 ----------->
+          <!-------- Lab 4 ----------->
+      <div class="row" id="lab2" >
+        
+        <div class="col-md-12">
+          <h2 class="text-center mb-4">Terrain Analysis</h2>
+          <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <!-- Map Link (insert lab 2 map after <a href=") -->
+            
+                <a href="http://sweb.uky.edu/~rlst244/nre355/MLKElevationPt2.pdf" target="_blank"><button type="button" class="btn btn-outline-primary"><i class="fa fa-folder-open" aria-hidden="true"></i> Open Map</button></a>
+                
         </div>
-        <div class="p-4 col-md-3">
-          <h2 class="mb-4 text-secondary">Mapsite</h2>
-          <ul class="list-unstyled">
-            <a href="#" class="text-white">Home</a>
-            <br>
-            <a href="#" class="text-white">About us</a>
-            <br>
-            <a href="#" class="text-white">Our services</a>
-            <br>
-            <a href="#" class="text-white">Stories</a>
-          </ul>
-        </div>
-        <div class="p-4 col-md-3">
-          <h2 class="mb-4">Contact</h2>
-          <p>
-            <a href="tel:+246 - 542 550 5462" class="text-white"><i class="fa d-inline mr-3 text-secondary fa-phone"></i>+246 - 542 550 5462</a>
-          </p>
-          <p>
-            <a href="mailto:info@pingendo.com" class="text-white"><i class="fa d-inline mr-3 text-secondary fa-envelope-o"></i>info@pingendo.com</a>
-          </p>
-          <p>
-            <a href="https://goo.gl/maps/AUq7b9W7yYJ2" class="text-white" target="_blank"><i class="fa d-inline mr-3 fa-map-marker text-secondary"></i>365 Park Street, NY</a>
-          </p>
-        </div>
-        <div class="p-4 col-md-3">
-          <h2 class="mb-4 text-light">Subscribe</h2>
-          <form>
-            <fieldset class="form-group text-white"> <label for="exampleInputEmail1">Get our newsletter</label>
-              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email"> </fieldset>
-            <button type="submit" class="btn btn-outline-secondary">Submit</button>
-          </form>
-        </div>
+       <!-------- Tallest Trees Photos (insert Elevation Profile photo after <a href=" and <img... src=" )----------->
+        <div class="py-5">
+            <div class="container">
+                        <h4 class="mb-4">Tallest Trees</h4>
+                <div class="row">
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/5b604szqjs773ue/Tall%20Tree%20%231%20Nov%2013%2C%203%2029%2047%20PM.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/5b604szqjs773ue/Tall%20Tree%20%231%20Nov%2013%2C%203%2029%2047%20PM.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/m8t9wt7k5ueavsw/Tall%20Tree%20%234%20Nov%2013%2C%203%2030%2008%20PM.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/m8t9wt7k5ueavsw/Tall%20Tree%20%234%20Nov%2013%2C%203%2030%2008%20PM.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
+                    <div class="col-md-4 col-6 p-1">
+                        <a href="https://www.dropbox.com/s/pi6ebqei06u5kyu/Tall%20Tree%20%235%20Nov%2013%2C%203%2033%2000%20PM.jpg?raw=1" target="_blank">
+                            <img class="d-block img-fluid" src="https://www.dropbox.com/s/pi6ebqei06u5kyu/Tall%20Tree%20%235%20Nov%2013%2C%203%2033%2000%20PM.jpg?raw=1" alt="PHOTO"> </a>
+                    </div>
+
+                </div>
+
+            </div>
+          </div>
+
+              <!-------- /Tallest Trees ----------->   
       </div>
-      <div class="row">
-        <div class="col-md-12 mt-3">
-          <p class="text-center text-white">© Copyright 2017 Pingendo - All rights reserved. </p>
-        </div>
-      </div>
+          <!-------- /lab 4 ----------->
     </div>
   </div>
+    </div>
+    <!-------- /Labs ------>
+<!-------- /Footer ----------->    
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
